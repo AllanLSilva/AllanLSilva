@@ -55,7 +55,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
   
-![Snake animation](https://github.com/AllanLSilva/AllanLSilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AllanLSilva/blob/output/github-contribution-grid-snake.svg)
 
 
   ## How to reach me:
