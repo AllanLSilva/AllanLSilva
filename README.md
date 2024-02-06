@@ -71,7 +71,7 @@
 ## Certified :heavy_check_mark:...
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>      
 </div>
 
 
